@@ -1,0 +1,230 @@
+[
+    {
+        "Grupo": "1ro 'A'",
+        "Alumnos": [
+            {
+                "Matricula": 21100000,
+                "Nombre": "Ubaldo",
+                "Apellido_Paterno": "Luna",
+                "Apellido_Materno": "Rodriguez",
+                "Materias": [
+                    {
+                        "Nombre": "Metodolog\u00eda de la Programaci\u00f3n",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 9.9
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.8
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "Ingl\u00e9s I",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 10.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.7
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "\u00c1lgebra Lineal",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 9.8
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.9
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 10.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 4",
+                                "Calificacion": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Matricula": 21100001,
+                "Nombre": "Vladimir",
+                "Apellido_Paterno": "Marquez",
+                "Apellido_Materno": "sa",
+                "Materias": [
+                    {
+                        "Nombre": "Metodolog\u00eda de la Programaci\u00f3n",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 8.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 9.5
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "Ingl\u00e9s I",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 8.8
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.2
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 10
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "\u00c1lgebra Lineal",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 8.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 8.5
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 9.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 4",
+                                "Calificacion": 10.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Grupo": "1ro 'B'",
+        "Alumnos": [
+            {
+                "Matricula": 21100005,
+                "Nombre": "Daniel",
+                "Apellido_Paterno": "Emmanuel",
+                "Apellido_Materno": "Ludue\u00f1a",
+                "Materias": [
+                    {
+                        "Nombre": "Desarrollo de Habilidades del Pensamiento L\u00f3gico",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 9.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 8.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 10.0
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "\u00c1lgebra Lineal",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 9.5
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 9.8
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 8.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 4",
+                                "Calificacion": 9.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Matricula": 21100003,
+                "Nombre": "Matias",
+                "Apellido_Paterno": "Vuoso",
+                "Apellido_Materno": "j",
+                "Materias": [
+                    {
+                        "Nombre": "Desarrollo de Habilidades del Pensamiento L\u00f3gico",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 0.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 0.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "\u00c1lgebra Lineal",
+                        "Parciales": [
+                            {
+                                "Nombre_Parcial": "Parcial 1",
+                                "Calificacion": 0.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 2",
+                                "Calificacion": 0.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 3",
+                                "Calificacion": 0.0
+                            },
+                            {
+                                "Nombre_Parcial": "Parcial 4",
+                                "Calificacion": 0.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

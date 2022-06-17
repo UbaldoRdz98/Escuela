@@ -1,0 +1,44 @@
+[
+    {
+        "Matricula": 21100000,
+        "Nombre": "Ubaldo",
+        "Apellido_Paterno": "Luna",
+        "Apellido_Materno": "Rodriguez"
+    },
+    {
+        "Matricula": 21100001,
+        "Nombre": "Vladimir",
+        "Apellido_Paterno": "Marquez",
+        "Apellido_Materno": "sa"
+    },
+    {
+        "Matricula": 21100002,
+        "Nombre": "Oswaldo",
+        "Apellido_Paterno": "Sanchez",
+        "Apellido_Materno": "Ibarra"
+    },
+    {
+        "Matricula": 21100003,
+        "Nombre": "Matias",
+        "Apellido_Paterno": "Vuoso",
+        "Apellido_Materno": "j"
+    },
+    {
+        "Matricula": 21100004,
+        "Nombre": "Pepe",
+        "Apellido_Paterno": "pepe",
+        "Apellido_Materno": "pepe"
+    },
+    {
+        "Matricula": 21100005,
+        "Nombre": "Daniel",
+        "Apellido_Paterno": "Emmanuel",
+        "Apellido_Materno": "Ludue\u00f1a"
+    },
+    {
+        "Matricula": 21100006,
+        "Nombre": "Sofia",
+        "Apellido_Paterno": "Flores",
+        "Apellido_Materno": "Gonzalez"
+    }
+]

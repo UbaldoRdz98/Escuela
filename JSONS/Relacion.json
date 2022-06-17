@@ -1,0 +1,105 @@
+[
+    {
+        "Grupo": "1ro 'A'",
+        "Materias": [
+            {
+                "Nombre": "Metodolog\u00eda de la Programaci\u00f3n",
+                "Parciales": [
+                    {
+                        "Nombre_Parcial": "Parcial 1",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 2",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 3",
+                        "Calificacion": 0.0
+                    }
+                ]
+            },
+            {
+                "Nombre": "Ingl\u00e9s I",
+                "Parciales": [
+                    {
+                        "Nombre_Parcial": "Parcial 1",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 2",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 3",
+                        "Calificacion": 0.0
+                    }
+                ]
+            },
+            {
+                "Nombre": "\u00c1lgebra Lineal",
+                "Parciales": [
+                    {
+                        "Nombre_Parcial": "Parcial 1",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 2",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 3",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 4",
+                        "Calificacion": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Grupo": "1ro 'B'",
+        "Materias": [
+            {
+                "Nombre": "Desarrollo de Habilidades del Pensamiento L\u00f3gico",
+                "Parciales": [
+                    {
+                        "Nombre_Parcial": "Parcial 1",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 2",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 3",
+                        "Calificacion": 0.0
+                    }
+                ]
+            },
+            {
+                "Nombre": "\u00c1lgebra Lineal",
+                "Parciales": [
+                    {
+                        "Nombre_Parcial": "Parcial 1",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 2",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 3",
+                        "Calificacion": 0.0
+                    },
+                    {
+                        "Nombre_Parcial": "Parcial 4",
+                        "Calificacion": 0.0
+                    }
+                ]
+            }
+        ]
+    }
+]

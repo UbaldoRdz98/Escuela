@@ -1,0 +1,167 @@
+[
+    {
+        "Nombre": "Metodolog\u00eda de la Programaci\u00f3n",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Ingl\u00e9s I",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Fundamentos de TI",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Fundamentos de Redes",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 4",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 5",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 6",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Formaci\u00f3n Sociocultural I",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Expresi\u00f3n Oral y Escrita I",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Desarrollo de Habilidades del Pensamiento L\u00f3gico",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "\u00c1lgebra Lineal",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 4",
+                "Calificacion": 0.0
+            }
+        ]
+    },
+    {
+        "Nombre": "Control de motores",
+        "Parciales": [
+            {
+                "Parcial": "Parcial 1",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 2",
+                "Calificacion": 0.0
+            },
+            {
+                "Parcial": "Parcial 3",
+                "Calificacion": 0.0
+            }
+        ]
+    }
+]
